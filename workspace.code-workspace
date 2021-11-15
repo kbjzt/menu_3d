@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "../3d engine"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../pong game"
+		},
+		{
+			"path": "../webcamacces"
+		},
+		{
+			"path": "../landingpage"
+		},
+		{
+			"path": "../Projet Best Foot"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "pong game"
+	}
+}
